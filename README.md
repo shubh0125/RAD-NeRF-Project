@@ -9,7 +9,7 @@ Colab notebook demonstration: [![Open In Colab](https://colab.research.google.co
 ### [Github Project Page](https://github.com/shubh0125/RAD-NeRF-Project) | [Paper](https://arxiv.org/abs/2211.12368) |
 
 The Data for the Project can be seen on the link below
-### [Drive]()
+### [Drive](https://drive.google.com/file/d/1YzIDrU-yW8jnLl65Ah0BCz6X6CjGZqYP/view)
 
 ----
 References for the Colab Notebook 
@@ -132,7 +132,7 @@ cd ../..
 
 ### Start
 
-We provide some pretrained models [here]("") for quick testing on arbitrary audio.
+We provide some pretrained models [here]("https://drive.google.com/file/d/1YzIDrU-yW8jnLl65Ah0BCz6X6CjGZqYP/view") for quick testing on arbitrary audio.
 
 * Download a pretrained model.
     For example, we download `obama_eo.pth` to `./pretrained/obama_eo.pth`
